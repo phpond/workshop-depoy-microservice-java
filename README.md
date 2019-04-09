@@ -1,4 +1,4 @@
-[MyDockerHub : phpond](https://hub.docker.com/u/phpond)
+[MyDockerHub : phpond](https://hub.docker.com/u/phpond) ;)
 
 [![Build Status](https://travis-ci.com/up1/workshop-depoy-microservice-java.svg?branch=master)](https://travis-ci.com/phpond/workshop-depoy-microservice-java)
 
